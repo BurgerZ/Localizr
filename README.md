@@ -15,7 +15,7 @@ Localizr is a Tool that handles and automates localization files. Basically we g
 - Integrated with `Fastlane actions`. (`Fastlane actions localizr`) 
 - Default fallback for missing localizations.
 - Export and import to different file format.
-- Easy deployment: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/michaelhenry/localizr)
+- Easy deployment: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/burgerz/localizr)
 - Dockerized: `docker pull michaelhenry119/localizr`
 - Static files hosted in AWS S3 (Optional)
 - Snapshots
@@ -163,7 +163,7 @@ Just find the `EXPORT` button, select the `format` and that's it.
 
 ## Deployment
 ### Using Heroku
-Just click this button >++> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/michaelhenry/localizr)
+Just click this button >++> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/burgerz/localizr)
 
 If you're using heroku's free dyno and the waking time is longer than expected, you disable the auto migration option by setting the environment variable:
 
